@@ -75,8 +75,11 @@ I am a passionate **Software Engineering student** dedicated to building scalabl
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilal-ahmad-kr&show_icons=true&theme=radical" alt="Bilal's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-ahmad-kr&layout=compact&theme=radical" alt="Top Langs" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-ahmad-kr&theme=radical&hide_border=true" alt="Bilal's GitHub Streak" width="100%">
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-ahmad-kr&theme=radical" alt="Bilal's GitHub Details" width="100%">
 </p>
 
 ---

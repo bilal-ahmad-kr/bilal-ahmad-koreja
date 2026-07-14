@@ -1,6 +1,6 @@
 <!-- ===========================
  GitHub Profile README
- Replace only the email and portfolio link if needed.
+ bilalhassan779966@gmail.com
  GitHub Username: bilal-ahmad-kr
  LinkedIn Username: bilal-ahmad-kr
 ============================ -->

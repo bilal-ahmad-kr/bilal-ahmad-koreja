@@ -1,186 +1,236 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,15,35&height=260&section=header&text=Bilal%20Ahmad&fontSize=70&fontAlignY=45&animation=twinkle&theme=dark" width="100%" alt="Header Banner" />
+<!-- ===========================
+ GitHub Profile README
+ Replace only the email and portfolio link if needed.
+ GitHub Username: bilal-ahmad-kr
+ LinkedIn Username: bilal-ahmad-kr
+============================ -->
+
+<div align="center">
+
+# Hi 👋, I'm Bilal Ahmad
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;MERN+Stack+Software+Engineer;React+Developer;Python+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:06B6D4,100:7C3AED&text=Bilal%20Ahmad&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
+
+<p>
+Building intelligent software that solves real-world problems through Artificial Intelligence and Modern Web Development.
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Machine+Learning+Engineer;MERN+Stack+Software+Engineer;React+Developer;Python+Developer;AI+Enthusiast" alt="Typing Animation" />
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=bilal-ahmad-kr&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<!-- VISITOR COUNTER & SOCIAL BADGES -->
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=PROFILE+VIEWS&color=0078d4" alt="Visitor Counter" />
-</p>
+</div>
+
+---
+
+# 🚀 About Me
+
+💻 Machine Learning Engineer passionate about AI-powered products.
+
+🌐 MERN Stack Software Engineer building scalable web applications.
+
+🧠 Interested in Deep Learning, NLP, Generative AI and LLM Applications.
+
+📚 Constantly learning modern technologies and best software engineering practices.
+
+🎯 Goal: Build production-ready AI systems that make a real impact.
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourportfolio.placeholder.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
+
+<a href="https://github.com/bilal-ahmad-kr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bilal-ahmad-kr/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
 
 ---
 
-## 💫 About Me
+# 💻 Tech Stack
 
-I am a forward-thinking **Software Engineer** specializing in the intersection of **full-stack web development** and **artificial intelligence**. With robust experience in the MERN stack and complex Machine Learning pipelines, I bridge the gap between powerful backend systems, modern user interfaces, and intelligent, data-driven backends.
+## Frontend
 
-* 🧠 Passionate about **Machine Learning**, **Generative AI**, and building scalable intelligence-driven architectures.
-* 🚀 Proficient in designing and shipping clean, highly responsive single-page applications.
-* 🛠️ Active open-source contributor and lifetime learner of system designs and distributed architectures.
-* 📈 Driven by translating complex datasets into clean, actionable insights using predictive model pipelines.
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind"/>
 
-## 🛠️ Tech Stack
+</p>
 
-<h3 align="left">💻 Frontend</h3>
+## Backend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind_css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+<p>
 
-<h3 align="left">⚙️ Backend & Databases</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodesource&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST--API-0052CC?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
-<h3 align="left">🤖 Machine Learning & AI</h3>
+## Databases
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=scipy&logoColor=white)
-<br>
-![Generative AI](https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-34a853?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-2A4F96?style=for-the-badge&logo=nvidia&logoColor=white)
+<p>
 
-<h3 align="left">🛠️ Tools & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</p>
 
----
+## Machine Learning & AI
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&column=5" alt="GitHub Trophies" />
-  </a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-success?style=for-the-badge"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel"/>
+
 </p>
 
 ---
 
-## 📁 Featured Projects
+# ⭐ Featured Projects
 
-<!-- PROJECT 1 -->
-### 🧪 AI Customer Churn Prediction
-> An end-to-end Machine Learning pipeline utilizing Flask and pandas to train models and predict customer retention rates, visualised through a rich dashboard interface.
-* **Tech Stack**: Python, scikit-learn, Flask, Pandas, NumPy, Bootstrap
-* <a href="https://github.com/YOUR_GITHUB_USERNAME/churn-prediction" target="_blank">💻 GitHub Repository</a> • <a href="#" target="_blank">🌐 Live Demo</a>
-
-<!-- PROJECT 2 -->
-### 🏥 Smart Hospital Management System
-> A production-ready management ecosystem built to register users, manage doctors, schedule consultations, and process records seamlessly.
-* **Tech Stack**: React, Node.js, Express.js, MongoDB, Tailwind CSS
-* <a href="https://github.com/YOUR_GITHUB_USERNAME/hospital-system" target="_blank">💻 GitHub Repository</a> • <a href="#" target="_blank">🌐 Live Demo</a>
-
-<!-- PROJECT 3 -->
-### 📊 MERN Dashboard
-> An industry-standard analytics panel built with heavy usage of responsive tables, modular state management, and real-time backend synchronization.
-* **Tech Stack**: React, Redux Toolkit, Express, MongoDB, Tailwind CSS
-* <a href="https://github.com/YOUR_GITHUB_USERNAME/mern-dashboard" target="_blank">💻 GitHub Repository</a> • <a href="#" target="_blank">🌐 Live Demo</a>
-
-<!-- PROJECT 4 -->
-### 📈 AI Analytics Dashboard
-> A premium dashboard monitoring and evaluating incoming multi-dimensional data pipelines, displaying live metrics through ML regression forecasting models.
-* **Tech Stack**: Next.js, FastAPI, PostgreSQL, TensorFlow, ChartJS
-* <a href="https://github.com/YOUR_GITHUB_USERNAME/ai-analytics" target="_blank">💻 GitHub Repository</a> • <a href="#" target="_blank">🌐 Live Demo</a>
-
-<!-- PROJECT 5 -->
-### 🌐 Portfolio Website
-> My clean, fast, search engine optimized digital portfolio built to showcase skills, frameworks, and modern UX design methodologies.
-* **Tech Stack**: Next.js, Tailwind CSS, Framer Motion
-* <a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio" target="_blank">💻 GitHub Repository</a> • <a href="#" target="_blank">🌐 Live Demo</a>
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Customer Churn Prediction | Machine Learning system for predicting customer churn using Scikit-Learn & XGBoost. |
+| 🏥 Smart Hospital Management System | AI-powered hospital management platform using MERN Stack. |
+| 📊 MERN Dashboard | Modern analytics dashboard with authentication and charts. |
+| 📈 AI Analytics Dashboard | Interactive ML dashboard with visualizations. |
+| 🌐 Portfolio Website | Personal portfolio built with React & Next.js. |
 
 ---
 
-## 📊 Analytics & Insights
+# 📈 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Bilal's GitHub Stats" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Bilal's Top Languages" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilal-ahmad-kr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-ahmad-kr&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Bilal's Commit Streak" width="97%" />
-</p>
 
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" width="97%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-ahmad-kr&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Currently Learning & Upskilling
-* 🌀 **Deep Learning**: Architecting and tuning complex multi-layered Convolutional (CNN) and Recurrent (RNN) networks.
-* 🤖 **Generative AI & LLMs**: Fine-tuning transformer models, designing RAG pipelines, and integrating advanced prompt architectures.
-* 🏗️ **System Design**: Understanding microservice trade-offs, global caches, and high-load traffic handling.
-* ☁️ **Cloud Computing**: Container orchestrations with Docker, cloud instances deployment, and CI/CD operations.
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bilal-ahmad-kr&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+# 📊 Contribution Graph
 
-I am always open to discussing new freelance projects, remote job prospects, research collaborations, or simply sharing a virtual cup of coffee.
+<p align="center">
 
-* **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio**: [yourportfolio.placeholder.com](https://yourportfolio.placeholder.com)
-* **Location**: Punjab, Pakistan 🇵🇰 (Available for remote and international roles)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal-ahmad-kr&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i> <br>
-  <b>— Alan Kay</b>
-</p>
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30" width="100%" alt="Footer spacer" />
-</p>
+> Enable GitHub Actions in your profile repository and generate the snake animation.
 
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+```
+
+---
+
+# 🌱 Currently Learning
+
+- Deep Learning
+- Generative AI
+- LLM Applications
+- System Design
+- Cloud Computing
+- MLOps
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-grade AI applications
+- Master MERN Stack
+- Contribute to Open Source
+- Solve 500+ DSA Problems
+- Land an international Software Engineering role
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code with purpose. Learn continuously. Build products that make a difference."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:7C3AED,50:06B6D4,100:0F172A"/>
+
+
+
+
+ 
